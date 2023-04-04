@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yamini Murugan
 - 👀 I’m interested in Full stack devlopment
 - 🌱 I’m currently learning Javasript & Full stack development 
-- 💞️ I’m looking to collaborate on Front end learnings
+- 💞️ I’m very passionate about building beautiful , resposnive UI
 - 📫 How to reach me email : yamineems@gmail.com
 
 <!---
